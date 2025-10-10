@@ -104,8 +104,6 @@ Load shedding, intermittent internet, resource constraints—our configurations 
 **Lead the conversation.**
 We're not just adopting AI tools. We're defining how to adopt them responsibly.
 
-**Share our innovations.**
-African VibeOps configurations can improve codebases worldwide.
 
 ---
 
@@ -113,7 +111,7 @@ African VibeOps configurations can improve codebases worldwide.
 
 I commit to:
 
-1. **Configure before I code** - Define AI behavior explicitly
+1. **Configure my environment before I code** - Define AI behavior explicitly
 2. **Test before I trust** - Write tests, then ask AI for implementation
 3. **Measure what matters** - Run VibeOps Evals on my configurations
 4. **Share what works** - Contribute configurations that pass evaluations
@@ -136,7 +134,7 @@ VibeOps doesn't slow you down—it ensures you're actually speeding up in realit
 **Start measuring. Stop guessing.**
 
 - GitHub: github.com/[username]/vibeops
-- Share your .cursorrules with #VibeOps
+- Share your .xrules with #VibeOps
 - Run VibeOps Evals and post your scores
 - Contribute to the eval suite
 - Help build configurations for your context
