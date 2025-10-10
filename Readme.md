@@ -89,23 +89,7 @@ What happens in real codebases with real developers matters more than lab result
 ### Iterate Based on Evidence
 Change configurations based on eval results, not hunches. If the data says it's not working, change it.
 
----
 
-## For Africa, By Developers, For the World
-
-We have a unique opportunity:
-
-**Learn from global mistakes without repeating them.**
-Others flew blind. We won't.
-
-**Build for our context.**
-Load shedding, intermittent internet, resource constraints—our configurations reflect our reality.
-
-**Lead the conversation.**
-We're not just adopting AI tools. We're defining how to adopt them responsibly.
-
-
----
 
 ## The VibeOps Commitment
 
