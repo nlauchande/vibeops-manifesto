@@ -64,7 +64,7 @@ We build in public. We share configurations that pass evals. We contribute to co
 
 A VibeOps developer:
 
-- **Writes .cursorrules before writing code** - Define the game before you play it
+- **Writes config rules(examples: agent.md,.cursorrules, llm.txt) before writing code** - Define the game before you play it
 - **Creates tests before asking AI for implementation** - Validation first, generation second
 - **Runs evals to measure impact** - Trust data, not dopamine
 - **Shares configurations that work** - Lift others as you climb
